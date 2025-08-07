@@ -1,0 +1,10 @@
+body{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.nav-link.active {
+  background-color: #d1e5fa; /* light gray */
+  color: #37424e !important; /* dark text */
+  border-radius: 0.25rem;
+}
